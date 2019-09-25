@@ -1,2 +1,2 @@
 # My-first-JavaFX-projec
-Basic JavaFXlogin - using Maven with mysql database
+Basic JavaFX login - using Maven with mysql database
